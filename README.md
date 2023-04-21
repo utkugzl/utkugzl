@@ -1,4 +1,4 @@
-<h3 align="center">A passionate developer from Turkey. I try to do a good job in all roles I have in life, and I enjoy the process immensely. </h3>
+<h3 align="center">I try to do a good job in all roles I have in life, and I enjoy the process immensely. </h3>
 
 
 <h3 align="center">Connect with me : utku.guzel44@gmail.com</h3>
