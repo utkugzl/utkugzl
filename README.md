@@ -17,9 +17,7 @@
   <a href="https://www.linkedin.com/in/utkuguzel44/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="utkuguzel-linkedin" />
   </a>
-  <a href="https://www.instagram.com/utku.gzl/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="utkuguzel-instagram" />
-  </a>
+
 
 
 <br>
