@@ -32,8 +32,6 @@ I'm trying to show used languages with GitHub README.md stats:
   <a href="#" title="Utku">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkugzl&theme=tokyonight" />
   </a>
-  <a href="#" title="Utku">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=utkugzl&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
+
 </div>
 
