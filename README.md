@@ -20,23 +20,5 @@
 
 
 
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
 
-
-
-<div align=center>
-
-
-   <a href="#" title="Utku">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkugzl&theme=tokyonight" />
-  </a>
-
- 
-
-
-
-
-</div>
 
