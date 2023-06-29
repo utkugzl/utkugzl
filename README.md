@@ -25,8 +25,6 @@
 <br>
 
 
-I'm trying to show used languages with GitHub README.md stats:
-
 
 <div align=center>
   <a href="#" title="Utku">
